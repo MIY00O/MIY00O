@@ -11,3 +11,13 @@
   <li>Age         : 16</li>
   <li>Hobby       : Playing games, Coding, Editing video</li>
 </ul>
+
+#Skills
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>PHP</li>
+  <li>Bootstrap</li>
+  <li>CodeIgniter</li>
+  <li>Python</li>
+</ul>
