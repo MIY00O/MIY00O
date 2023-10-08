@@ -12,7 +12,7 @@
   <li>Hobby       : Playing games, Watching Anime, Reading Manga, Coding, Editing video</li>
 </ul>
 
-#Skills
+# Skills
 <ul>
   <li>HTML</li>
   <li>CSS</li>
