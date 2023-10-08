@@ -9,7 +9,7 @@
 <ul>
   <li>Pronnouce   : He/Him</li>
   <li>Age         : 16</li>
-  <li>Hobby       : Playing games, Coding, Editing video</li>
+  <li>Hobby       : Playing games, Watching Anime, Reading Manga, Coding, Editing video</li>
 </ul>
 
 #Skills
