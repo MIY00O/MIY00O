@@ -18,4 +18,5 @@
   <li>Bootstrap</li>
   <li>CodeIgniter</li>
   <li>Python</li>
+  <li>Laravel</li>
 </ul>
