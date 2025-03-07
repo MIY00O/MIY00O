@@ -10,16 +10,15 @@
   <li>Hobby       : Playing games, Watching Anime, Reading Manga, Coding, Editing video</li>
 </ul>
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIY00O&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" height="500px"/>
-
 # Skills
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>PHP</li>
-  <li>Bootstrap</li>
-  <li>CodeIgniter</li>
-  <li>Python</li>
-  <li>Laravel</li>
-  <li>Flutter</li>
-</ul>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?style=flat-square&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
