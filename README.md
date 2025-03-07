@@ -10,7 +10,7 @@
   <li>Hobby       : Playing games, Watching Anime, Reading Manga, Coding, Editing video</li>
 </ul>
 
-# Skills
+# Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?style=flat-square&logo=codeigniter&logoColor=white)
