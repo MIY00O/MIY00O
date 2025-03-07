@@ -10,6 +10,8 @@
   <li>Hobby       : Playing games, Watching Anime, Reading Manga, Coding, Editing video</li>
 </ul>
 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIY00O&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" height="500px"/>
+
 # Skills
 <ul>
   <li>HTML</li>
