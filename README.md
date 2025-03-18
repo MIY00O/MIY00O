@@ -10,7 +10,6 @@
 
 # Tech Stack
 
-![Flutter](https://img.shields.io/badge/PHP-4f4f50?style=flat-square&logo=php&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-818589?style=flat-square&logo=firebase&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-4f4f50?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-818589?style=flat-square&logo=php&logoColor=white)
